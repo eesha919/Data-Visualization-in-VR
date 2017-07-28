@@ -11,4 +11,4 @@ Software Requirements:
  The framework for our application comprises of a backend server, Unity engine and the HTC Stream VR.
 
 The whole project exceeds 1 GB of storage space; thus, you can email personally for the code reference. To find the video of the demo, please refer to the link given below: 
-https://youtu.be/OOOVEpgIIJI
+https://www.youtube.com/watch?v=SzFdjPS-pSI
